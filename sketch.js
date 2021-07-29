@@ -20,7 +20,7 @@ if(keyIsDown(RIGHT_ARROW)) {
     background("violet");
   }
   }
-  background(445);
+  
 
 
 
